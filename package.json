@@ -1,7 +1,8 @@
 {
   "name": "whistle.notion-pwa",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A whistle plugin to enable Notion Web App as an installable PWA through script and manifest injection.",
+  "homepage": "https://github.com/zgq354/whistle.notion-pwa",
   "scripts": {},
   "devDependencies": {}
 }
