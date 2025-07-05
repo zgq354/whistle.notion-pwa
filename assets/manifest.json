@@ -1,0 +1,22 @@
+{
+  "name": "Notion",
+  "short_name": "Notion",
+  "description": "The all-in-one workspace for your notes, tasks, wikis, and databases.",
+  "start_url": "/",
+  "display": "standalone",
+  "display_override": ["tabbed", "window-controls-overlay"],
+  "background_color": "#000",
+  "theme_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "https://www.noiton.so/images/notion-icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://www.noiton.so/images/notion-icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

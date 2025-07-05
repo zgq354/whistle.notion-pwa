@@ -1,0 +1,6 @@
+# test 
+https://www.notion.so/manifest.json file://assets/manifest.json resType://json
+https://www.notion.so/sw.js file://assets/sw.js resType://application/javascript
+https://www.noiton.so/images/notion-icon.png file://assets/notion-icon.png
+
+https://www.notion.so/ htmlPrepend://`assets/inject.html`
